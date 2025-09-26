@@ -1,0 +1,119 @@
+Voici mon arborescence:
+GENOME_COMPRESSOR/
+|
+|---------src/                                                 # Code source principal
+|          |-------__init__.py
+|          |-------main.py                                     # Point d'entree CLI
+|          |-------pattern_scanner.py                          # Module PatternScanner
+|          |-------gene_encoder.py                             # Module GeneEncoder
+|          |-------mutation_encoder.py                         # Module MutationEncoder
+|          |-------genome_compressor.py                        # Assemble le fichier final
+|          |-------genome_decoder.py                           # Reconstructeur
+|          |-------storage_model.py                            # Sauvegarde JSON/ .dna
+|          |-------utils.py                                    # Fonctions utilitaires (ex: encodage ADN)
+|          
+|
+|
+|
+|
+|
+|-----examples/                                                # Fichiers exemples de tests
+|          |------exemple1.txt
+|          |------exemple1.dna
+|
+|
+|-----tests/                                                   # Tests unitaires
+|         |-------__init__.py
+|         |-------test_pattern_scanner.py
+|         |-------test_gene_encoder.py
+|         |-------test_mutation_encoder.py
+|         |-------test_compression.py
+|         |-------test_decoder.py
+|
+|-------tests_cli/
+|         |-----__init__.py
+|         |----test_compressor_cli.py
+|
+|
+|------test_performance/
+|         |------bel_ami_extrait.txt
+|
+|
+|
+|
+|
+|----benchmark/
+|       |------benchmark_compression_ratio.py                       # Pour mesurer le taux de compression
+|       |------benchmark_speed.py                                   # Pour mesurer le temps de compression / decompression
+|       |------benchmark_memory.py                                  # Pour suivre la consommation memoire       
+|
+|----tests_benchmark/
+|       |------test_compression_ratio.py                            # Test le benchmark_compression_ratio
+|       |------test_benchmark_speed.py                              # Teste le benchmark_speed
+|       |------test_benchmark_memory.py
+|
+|
+|----docs_benchmark_fr/
+|       |------README_benchmark_ratio.md
+|       |------README_benchmark_speed.md
+|       |------README_benchmark_memory.md
+|
+|
+|----docs_benchmark_en/
+|       |------README_benchmark_ratio.md
+|       |------README_benchmark_speed.md
+|       |------README_benchmark_memory.md
+|
+|
+|-----docs_fr/                                                    # Documentation, schemas, Graphiz, etc.....
+|       |---------architecture.png
+|       |---------cahier_des_charges.md
+|       |---------README_pattern_scanner.md
+|       |---------README_genome_decoder.md
+|       |---------README_mutation_encoder.md
+|       |---------README_genome_compressor.md
+|       |---------README_gene_encoder.md
+|       |---------README_storage_mode.md
+|       |---------README_compressor_cli.md
+|
+|
+|------docs_en/
+|       |--------cahier_des_charges.md
+|       |--------README_pattern_scanner.md
+|       |--------README_genome_decoder.md
+|       |--------README_mutation_encoder.md
+|       |--------README_genome_compressor.md
+|       |--------README_gene_encoder.md
+|       |--------README_storage_mode.md
+|       |--------README_compressor_cli.md
+|
+|
+|
+|------cli/                                                    # Interface ligne de commande
+|       |---------compressor_cli.py
+|
+|
+|-------splash/
+|        |------GENOME_COMPRESSOR.png
+|
+|
+|
+|
+|
+|------gui/
+|       |----------gui_tkinter.py
+|       |----------splash_screen.py
+|
+|------run.py                                                  # Point d'entre d'utilisateur
+|
+|
+|-------.gitignore                                             # Fichiers a ignorer par Git
+|-------LICENCE_FR                                             # Licence open source MIT
+|-------LICENSE_EN
+|-------README.md                                              # Presentation du projet
+|-------requirements.txt                                       # Dependance Python
+|-------setup.py                                               # Pour installation avec pip
+|-------pyprojet.toml                                          # (optionnel) config moderne pour build et outils
+|-------CHANGELOG.md
+|-------A propos_du_projet.md
+|

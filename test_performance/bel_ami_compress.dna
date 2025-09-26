@@ -1,0 +1,611 @@
+{
+   "genes": {
+      "G0": "AGAACGCACGACCGTGCTATAGAA",
+      "G1": "CGACCGTGCTATAGAACGTACGCC",
+      "G2": "CGCACGACCGTGCTATAGAACGTA",
+      "G3": "CGACCGGCCTCAAGAACGCACGCC",
+      "G4": "CGACCGTGCTCAAGAACGCACGCC",
+      "G_dyn_5": "Extrai",
+      "G_dyn_6": "t de B",
+      "G_dyn_7": "el-Ami",
+      "G_dyn_8": " \u2013 Guy",
+      "G_dyn_9": " de Ma",
+      "G_dyn_10": "upassa",
+      "G_dyn_11": "nt\n\nGe",
+      "G_dyn_12": "orges ",
+      "G_dyn_13": "Duroy,",
+      "G_dyn_14": " ayant",
+      "G_dyn_15": " termi",
+      "G_dyn_16": "n\u00e9 son",
+      "G_dyn_17": "ce mil",
+      "G_dyn_18": "itaire",
+      "G_dyn_19": "romena",
+      "G_dyn_20": "it un ",
+      "G_dyn_21": "soir d",
+      "G_dyn_22": "ans le",
+      "G_dyn_23": "s rues",
+      "G_dyn_24": "ris, s",
+      "G_dyn_25": "t \u00e0 so",
+      "G_dyn_26": "n aven",
+      "G_dyn_27": "ir. Il",
+      "G_dyn_28": " n'ava",
+      "G_dyn_29": "ent, p",
+      "G_dyn_30": "eu de ",
+      "G_dyn_31": "relati",
+      "G_dyn_32": "e ambi",
+      "G_dyn_33": "tion d",
+      "G_dyn_34": "\u00e9voran",
+      "G_dyn_35": " r\u00eavai",
+      "G_dyn_36": "onqu\u00e9r",
+      "G_dyn_37": "capita",
+      "G_dyn_38": "le, de",
+      "G_dyn_39": " s'y f",
+      "G_dyn_40": "aire u",
+      "G_dyn_41": "n nom,",
+      "G_dyn_42": " une p",
+      "G_dyn_43": "lace, ",
+      "G_dyn_44": "une fo",
+      "G_dyn_45": "rtune.",
+      "G_dyn_46": "\n\nEn p",
+      "G_dyn_47": "af\u00e9 Am",
+      "G_dyn_48": "n, il ",
+      "G_dyn_49": "aper\u00e7u",
+      "G_dyn_50": "ncien ",
+      "G_dyn_51": "restie",
+      "G_dyn_52": "r, qui",
+      "G_dyn_53": "illait",
+      "G_dyn_54": " d\u00e9sor",
+      "G_dyn_55": "mais c",
+      "G_dyn_56": "omme j",
+      "G_dyn_57": "ournal",
+      "G_dyn_58": "iste. ",
+      "G_dyn_59": "nier l",
+      "G_dyn_60": "'invit",
+      "G_dyn_61": " et lu",
+      "G_dyn_62": "i prop",
+      "G_dyn_63": "er \u00e0 e",
+      "G_dyn_64": "e mond",
+      "G_dyn_65": "\nDuroy",
+      "G_dyn_66": " accep",
+      "G_dyn_67": "ta ave",
+      "G_dyn_68": "c enth",
+      "G_dyn_69": " \u00e9criv",
+      "G_dyn_70": "premie",
+      "G_dyn_71": "cle, q",
+      "G_dyn_72": "ui fut",
+      "G_dyn_73": " publi",
+      "G_dyn_74": " ainsi",
+      "G_dyn_75": "on dan",
+      "G_dyn_76": "usant ",
+      "G_dyn_77": " charm",
+      "G_dyn_78": "igence",
+      "G_dyn_79": " pour ",
+      "G_dyn_80": "gravir",
+      "G_dyn_81": "chelon",
+      "G_dyn_82": "s soci",
+      "G_dyn_83": "aux."
+   },
+   "blocks": [
+      {
+         "gene": "G_dyn_5",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_6",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_7",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_8",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_9",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_10",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_11",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_12",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_13",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_14",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_15",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_16",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_15",
+         "mutation": "-|Mut_1_s|-|-|Mut_4_v|-"
+      },
+      {
+         "gene": "G_dyn_17",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_18",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_6",
+         "mutation": "Mut_0_,|-|Mut_2_s|-|-|Mut_5_p"
+      },
+      {
+         "gene": "G_dyn_19",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_20",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_21",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_22",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_23",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_9",
+         "mutation": "-|-|-|-|Mut_4_P|-"
+      },
+      {
+         "gene": "G_dyn_24",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_12",
+         "mutation": "-|Mut_1_n|-|-|Mut_4_a|Mut_5_n"
+      },
+      {
+         "gene": "G_dyn_25",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_26",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_27",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_28",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_20",
+         "mutation": "-|-|-|Mut_3_p|Mut_4_a|Mut_5_s"
+      },
+      {
+         "gene": "G_dyn_28",
+         "mutation": "-|Mut_1_d|-|-|Mut_4_r|Mut_5_g"
+      },
+      {
+         "gene": "G_dyn_29",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_30",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_31",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_24",
+         "mutation": "Mut_0_o|Mut_1_n|-|-|-|Mut_5_m"
+      },
+      {
+         "gene": "G_dyn_22",
+         "mutation": "-|Mut_1_i|-|-|Mut_4_u|Mut_5_n"
+      },
+      {
+         "gene": "G_dyn_32",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_33",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_34",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_27",
+         "mutation": "Mut_0_t|Mut_1_e|-|-|-|-"
+      },
+      {
+         "gene": "G_dyn_35",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_6",
+         "mutation": "-|-|-|-|-|Mut_5_c"
+      },
+      {
+         "gene": "G_dyn_36",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_20",
+         "mutation": "-|Mut_1_r|-|Mut_3_l|Mut_4_a|-"
+      },
+      {
+         "gene": "G_dyn_37",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_38",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_39",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_40",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_41",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_42",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_43",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_44",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_45",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_46",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_14",
+         "mutation": "Mut_0_a|Mut_1_s|Mut_2_s|-|-|-"
+      },
+      {
+         "gene": "G_dyn_9",
+         "mutation": "-|-|-|Mut_3_v|Mut_4_a|Mut_5_n"
+      },
+      {
+         "gene": "G_dyn_6",
+         "mutation": "-|-|Mut_2_l|-|-|Mut_5_c"
+      },
+      {
+         "gene": "G_dyn_47",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_35",
+         "mutation": "Mut_0_\u00e9|-|Mut_2_i|Mut_3_c|-|-"
+      },
+      {
+         "gene": "G_dyn_48",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_49",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_6",
+         "mutation": "-|-|Mut_2_u|Mut_3_n|-|Mut_5_a"
+      },
+      {
+         "gene": "G_dyn_50",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_37",
+         "mutation": "-|-|Mut_2_m|Mut_3_a|Mut_4_r|-"
+      },
+      {
+         "gene": "G_dyn_38",
+         "mutation": "Mut_0_d|-|-|-|Mut_4_F|Mut_5_o"
+      },
+      {
+         "gene": "G_dyn_51",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_52",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_28",
+         "mutation": "-|Mut_1_t|Mut_2_r|-|-|-"
+      },
+      {
+         "gene": "G_dyn_53",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_54",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_55",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_56",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_57",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_58",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_30",
+         "mutation": "Mut_0_C|Mut_1_e|-|-|-|Mut_5_r"
+      },
+      {
+         "gene": "G_dyn_59",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_60",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_25",
+         "mutation": "Mut_0_a|-|-|-|Mut_4_b|-"
+      },
+      {
+         "gene": "G_dyn_27",
+         "mutation": "-|-|Mut_2_e|-|Mut_4_u|Mut_5_n"
+      },
+      {
+         "gene": "G_dyn_15",
+         "mutation": "-|Mut_1_v|-|-|Mut_4_r|Mut_5_e"
+      },
+      {
+         "gene": "G_dyn_61",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_62",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_38",
+         "mutation": "Mut_0_o|Mut_1_s|Mut_2_a|-|-|-"
+      },
+      {
+         "gene": "G_dyn_28",
+         "mutation": "-|Mut_1_l|-|-|Mut_4_i|Mut_5_d"
+      },
+      {
+         "gene": "G_dyn_63",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_50",
+         "mutation": "-|Mut_1_t|Mut_2_r|-|Mut_4_r|-"
+      },
+      {
+         "gene": "G_dyn_55",
+         "mutation": "Mut_0_d|-|Mut_2_n|-|-|Mut_5_l"
+      },
+      {
+         "gene": "G_dyn_64",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_6",
+         "mutation": "Mut_0_e|-|-|Mut_3_u|-|Mut_5_j"
+      },
+      {
+         "gene": "G_dyn_57",
+         "mutation": "-|-|-|-|-|-"
+      },
+      {
+         "gene": "G_dyn_58",
+         "mutation": "-|-|Mut_2_m|-|-|Mut_5_\n"
+      },
+      {
+         "gene": "G_dyn_65",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_66",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_67",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_68",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_57",
+         "mutation": "-|-|Mut_2_s|Mut_3_i|-|Mut_5_s"
+      },
+      {
+         "gene": "G_dyn_27",
+         "mutation": "Mut_0_m|Mut_1_e|-|-|-|-"
+      },
+      {
+         "gene": "G_dyn_69",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_20",
+         "mutation": "-|-|-|-|-|-"
+      },
+      {
+         "gene": "G_dyn_70",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_31",
+         "mutation": "-|Mut_1_ |Mut_2_a|Mut_3_r|-|-"
+      },
+      {
+         "gene": "G_dyn_71",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_72",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_73",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_48",
+         "mutation": "Mut_0_\u00e9|-|-|Mut_3_e|Mut_4_t|-"
+      },
+      {
+         "gene": "G_dyn_28",
+         "mutation": "Mut_0_e|-|Mut_2_t|-|Mut_4_m|-"
+      },
+      {
+         "gene": "G_dyn_74",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_33",
+         "mutation": "Mut_0_ |Mut_1_s|-|-|-|Mut_5_a"
+      },
+      {
+         "gene": "G_dyn_74",
+         "mutation": "Mut_0_s|Mut_1_c|Mut_2_e|-|-|-"
+      },
+      {
+         "gene": "G_dyn_75",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_6",
+         "mutation": "Mut_0_s|-|Mut_2_l|-|-|Mut_5_m"
+      },
+      {
+         "gene": "G_dyn_6",
+         "mutation": "Mut_0_o|Mut_1_n|-|-|-|Mut_5_d"
+      },
+      {
+         "gene": "G_dyn_29",
+         "mutation": "-|Mut_1_ |Mut_2_l|Mut_3_a|-|-"
+      },
+      {
+         "gene": "G_dyn_51",
+         "mutation": "-|-|-|Mut_3_s|Mut_4_e|Mut_5_ "
+      },
+      {
+         "gene": "G_dyn_74",
+         "mutation": "Mut_0_p|-|Mut_2_r|Mut_3_i|-|-"
+      },
+      {
+         "gene": "G_dyn_43",
+         "mutation": "Mut_0_e|Mut_1_n|Mut_2_n|-|-|-"
+      },
+      {
+         "gene": "G_dyn_76",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_16",
+         "mutation": "Mut_0_d|Mut_1_e|-|-|-|-"
+      },
+      {
+         "gene": "G_dyn_77",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_64",
+         "mutation": "-|-|Mut_2_e|Mut_3_t|Mut_4_ |-"
+      },
+      {
+         "gene": "G_dyn_64",
+         "mutation": "-|-|Mut_2_s|-|-|Mut_5_ "
+      },
+      {
+         "gene": "G_dyn_58",
+         "mutation": "-|Mut_1_n|-|-|Mut_4_l|Mut_5_l"
+      },
+      {
+         "gene": "G_dyn_78",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_79",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_80",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_71",
+         "mutation": "Mut_0_ |-|-|Mut_3_s|-|Mut_5_\u00e9"
+      },
+      {
+         "gene": "G_dyn_81",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_82",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_83",
+         "mutation": "-"
+      }
+   ],
+   "metadata": {
+      "original_length": 766,
+      "block_size": 6,
+      "format_version": "1.0",
+      "created_at": "2025-08-03T13:37:56.338403",
+      "author": "Rakotondravelo Tahina Mickael",
+      "generator": "GENOME_COMPRESSOR",
+      "generator_version": "1.0.0"
+   }
+}

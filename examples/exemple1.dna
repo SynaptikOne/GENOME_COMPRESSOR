@@ -1,0 +1,33 @@
+{
+   "genes": {
+      "G0": "CAACCAATCACTCCCACAACCAAT",
+      "G1": "CAATCACTCCCACAACCAATCACT",
+      "G2": "CACTCCCACAACCAATCACTCCCA",
+      "G3": "CCCACAACCAATCACTCCCACAAC",
+      "G_dyn_4": "ACGTAC",
+      "G_dyn_5": "GTACGT"
+   },
+   "blocks": [
+      {
+         "gene": "G_dyn_4",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_5",
+         "mutation": "-"
+      },
+      {
+         "gene": "G_dyn_4",
+         "mutation": "-,-,-,-,-,-"
+      },
+      {
+         "gene": "G_dyn_5",
+         "mutation": "-,-,-,-,-,-"
+      }
+   ],
+   "metadata": {
+      "original_length": 24,
+      "block_size": 6,
+      "format_version": "1.0"
+   }
+}

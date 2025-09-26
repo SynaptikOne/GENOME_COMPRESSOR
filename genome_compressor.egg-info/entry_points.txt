@@ -1,0 +1,2 @@
+[console_scripts]
+genome_compressor = run:main

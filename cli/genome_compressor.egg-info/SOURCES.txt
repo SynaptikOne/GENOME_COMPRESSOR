@@ -1,0 +1,14 @@
+README.md
+setup.py
+cli/genome_compressor.egg-info/PKG-INFO
+cli/genome_compressor.egg-info/SOURCES.txt
+cli/genome_compressor.egg-info/dependency_links.txt
+cli/genome_compressor.egg-info/entry_points.txt
+cli/genome_compressor.egg-info/requires.txt
+cli/genome_compressor.egg-info/top_level.txt
+tests/test_gene_encoder.py
+tests/test_genome_compressor.py
+tests/test_genome_decoder.py
+tests/test_mutation_encoder.py
+tests/test_patterns_scanner.py
+tests/test_storage_model.py

@@ -1,0 +1,7 @@
+colorama
+tqdm
+inquirer
+pytest
+wheel
+setuptools
+Pillow

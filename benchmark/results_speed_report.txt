@@ -1,0 +1,7 @@
+== RAPPORT DE VITESSE - GENOME_COMPRESSOR ==
+
+Fichier        : bel_ami_extrait.txt
+   Temps de compression     :   0.0425 secondes
+   Temps de décompression   :   0.0049 secondes
+   Remarque : Décompression plus rapide que la compression.
+--------------------------------------------------

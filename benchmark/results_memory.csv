@@ -1,0 +1,2 @@
+filename,compress_mem (MB),decompress_mem (MB),compress_time (s),decompress_time (s)
+bel_ami_extrait.txt,0.53,0.1,0.26,0.01

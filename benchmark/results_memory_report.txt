@@ -1,0 +1,10 @@
+== RAPPORT DE MEMOIRE & TEMPS - GENOME_COMPRESSOR ==
+
+Fichier         : bel_ami_extrait.txt
+            Mémoire compression      : 0.53   Mo
+            Mémoire décompression    : 0.1 Mo
+            Temps compression        : 0.26  s
+            Temps décompression      : 0.01s
+         Remarque  : Décompression plus légère en memoire.
+--------------------------------------------------
+

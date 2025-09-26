@@ -1,0 +1,2 @@
+[console_scripts]
+genome_compressor = cli.compressor_cli:main

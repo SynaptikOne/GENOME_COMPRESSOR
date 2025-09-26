@@ -1,0 +1,5 @@
+colorama
+tqdm
+inquirer
+setuptools
+wheel

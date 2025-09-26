@@ -1,0 +1,20 @@
+{
+   "genes": {
+      "G0": "ACGTACGT"
+   },
+   "blocks": [
+      {
+         "gene": "G0",
+         "mutation": "Mut_0_A"
+      }
+   ],
+   "metadata": {
+      "original_length": 8,
+      "block_size": 4,
+      "format_version": "1.0",
+      "created_at": "2025-05-18T21:57:40.178045",
+      "author": "Rakotondravelo Tahina Micka\u00ebl",
+      "generator": "GENOME_COMPRESSOR",
+      "generator_version": "1.0.0"
+   }
+}

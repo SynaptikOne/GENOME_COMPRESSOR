@@ -1,0 +1,9 @@
+=== RAPPORT DE BENCHMARK - GENOME_COMPRESSOR ===
+
+Fichier traité             : bel_ami_extrait.txt
+Taille originale           : 764 octets
+Taille compressée          : 13092 octets
+Ratio de compression       : 17.1361 (x la taille)
+Durée du traitement        : 0.0405 secondes
+Note : Le fichier compressé est plus grand. Ce comportement est normal si le format .dna est structuré et lisible. 
+--------------------------------------------------

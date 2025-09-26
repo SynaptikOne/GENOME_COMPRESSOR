@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: genome_compressor
+Version: 1.0.0
+Summary: Outil de compression ADN bio-inspire
+Home-page: https://github.com/ton-github/genome_compressor
+Author: Rakotondravelo Tahina Mickaël
+Author-email: darkphex@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS independent
+Requires-Python: >=3.7
+License-File: LICENSE_EN.txt
+License-File: LICENSE_FR.txt
+Requires-Dist: colorama
+Requires-Dist: tqdm
+Requires-Dist: inquirer
+Requires-Dist: setuptools
+Requires-Dist: wheel
+Requires-Dist: Pytest
+Requires-Dist: Pillow
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
